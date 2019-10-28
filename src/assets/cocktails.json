@@ -1,0 +1,17 @@
+[{
+    "name": "bloody mary", 
+    "price": "1", 
+    "img": "https://i.4pcdn.org/s4s/1398123404333.gif"
+},
+
+{
+    "name": "White Russian", 
+    "price": "5", 
+    "img": "https://static.vinepair.com/wp-content/uploads/2017/11/white-russian-inside.jpg"
+},
+
+{
+    "name": "Manhattan", 
+    "price": "7", 
+    "img": "https://static.vinepair.com/wp-content/uploads/2017/11/manhattan-inside.jpg"
+}]
